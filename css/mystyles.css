@@ -1,0 +1,57 @@
+body{
+	background-image: url("../images/bg.jpg");
+	background-repeat:none;
+	background-size:cover;
+}
+
+h1{
+	font-size:75px;
+	text-allign:center;
+	font-family: 'Titan One', cursive;
+	color:crimson;
+	margin-left:13%;
+	
+	
+	
+}
+
+#imagebox{
+	width:95%;
+	margin-right:10%;
+	padding-right:200px;
+
+}
+
+
+
+.navButton{
+	width:5%;
+	float:right;
+	
+}
+
+#pickWindow{
+	width:70%;
+	float:right;
+	margin-right:2%;
+	border:groove blue;
+	background:crimson;
+	border-width:10px;
+}
+
+.arrowButton {
+	width:75%;
+	margin-top:500%;
+}
+
+.arrowButton:hover{
+	width:75%;
+	margin-top:500%;
+	opacity:.5;
+}
+
+
+#right {
+	padding-right:100px;
+
+}
